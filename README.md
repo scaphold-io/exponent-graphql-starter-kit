@@ -4,7 +4,7 @@
 Client](https://github.com/apollostack/apollo-client) to interact with a
 [Scaphold](https://scaphold.io/) backend.
 
-- Try it here: https://getexponent.com/@community/hello-graphql
+- Try it here: https://getexponent.com/@vning93/hello-graphql
 
 
 ## Running it locally
